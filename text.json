@@ -1,0 +1,52 @@
+{
+    "entities": [
+        {
+            "word": "Apple",
+            "score": 0.9995644688606262,
+            "entity": "I-ORG",
+            "index": 1,
+            "start": 0,
+            "end": 5
+        },
+        {
+            "word": "Inc",
+            "score": 0.9994686841964722,
+            "entity": "I-ORG",
+            "index": 2,
+            "start": 6,
+            "end": 9
+        },
+        {
+            "word": "Cup",
+            "score": 0.994751513004303,
+            "entity": "I-LOC",
+            "index": 10,
+            "start": 52,
+            "end": 55
+        },
+        {
+            "word": "##ert",
+            "score": 0.8879504799842834,
+            "entity": "I-LOC",
+            "index": 11,
+            "start": 55,
+            "end": 58
+        },
+        {
+            "word": "##ino",
+            "score": 0.9920012950897217,
+            "entity": "I-LOC",
+            "index": 12,
+            "start": 58,
+            "end": 61
+        },
+        {
+            "word": "California",
+            "score": 0.9977561831474304,
+            "entity": "I-LOC",
+            "index": 14,
+            "start": 63,
+            "end": 73
+        }
+    ]
+}
