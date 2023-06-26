@@ -25,7 +25,9 @@ To run the NER API locally, you need to have Docker installed. Follow these step
 ```docker run -p 8000:8000 ner-api```
 
 The API will be accessible at 
-```[http://localhost:8000](http://localhost:8000)```.
+```json
+[http://localhost:8000](http://localhost:8000)
+```
 
 ## API Usage
 
